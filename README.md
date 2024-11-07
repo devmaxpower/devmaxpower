@@ -14,8 +14,8 @@ Soy desarrollador web con formación en producción web, y tengo amplia experien
 | HTML5, CSS3, SASS| PHP, REST APIs      |                    | CI/CD, AWS           |
 
 ---
-
-> ## 🔥 Proyectos Destacados
+<!--
+## 🔥 Proyectos Destacados
 
 > ### 1. [**ProjectName**](enlace-al-proyecto)
 > **Descripción**: Breve explicación de lo que hace el proyecto y por qué es relevante. Ejemplo: "Una aplicación de comercio electrónico que permite a los usuarios navegar y comprar productos con un diseño moderno y un backend escalable."
@@ -56,7 +56,7 @@ Soy desarrollador web con formación en producción web, y tengo amplia experien
 > - [Título del Artículo 3](enlace)
 
 ---
-
+-->
 ## 🤝 ¡Conectemos!
 - **GetOnBoard** https://www.getonbrd.com/p/maximiliano-andres-villalobos-coilla
 - **LinkedIn**: @max-villalobos (https://www.linkedin.com/in/max-villalobos/)
@@ -66,7 +66,7 @@ Soy desarrollador web con formación en producción web, y tengo amplia experien
 ---
 
 ### 💡 Fun Fact
-Siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades. También disfruto de las frases chistosas que invitan a la reflexión, ¡porque un poco de humor siempre ayuda! 😄
+Siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades. También disfruto de las frases chistosas que invitan a la reflexión, ¡Porque un poco de humor siempre ayuda! 😄
 
 ---
 
