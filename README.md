@@ -60,8 +60,8 @@ Soy desarrollador web con formación en producción web, y tengo amplia experien
 ## 🤝 ¡Conectemos!
 - **GetOnBoard** https://www.getonbrd.com/p/maximiliano-andres-villalobos-coilla
 - **LinkedIn**: @max-villalobos https://www.linkedin.com/in/max-villalobos/
-<!--- **Portafolio**: [tu-sitio.com](enlace)-->
 - **Email**: max.villalobos.f@gmail.com
+<!--- **Portafolio**: [tu-sitio.com](enlace)-->
 
 ---
 
