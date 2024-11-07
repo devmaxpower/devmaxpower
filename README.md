@@ -1,8 +1,8 @@
-# ¡Hola, soy [Tu Nombre]! 👋
+# ¡Hola, soy Max! 👋
 
 ### 🌐 Desarrollador Web | Especialista en Frontend & Backend
 
-Soy un desarrollador web con 8 años de experiencia creando soluciones innovadoras y efectivas. Mi pasión es transformar ideas en aplicaciones web que no solo funcionen bien, sino que también brinden una experiencia de usuario excelente.
+Soy desarrollador web con formación en producción web, y tengo amplia experiencia en diseño y desarrollo de sitios web. Me apasionan los desafíos, creo que son la mejor oportunidad para seguir aprendiendo y creciendo profesionalmente. Siempre estoy en busca de nuevas soluciones y tendencias que me permitan mejorar y aportar valor a cada proyecto en el que participo.
 
 ---
 
@@ -10,8 +10,8 @@ Soy un desarrollador web con 8 años de experiencia creando soluciones innovador
 
 | **Frontend**    | **Backend**         | **Bases de Datos** | **DevOps & Otros**   |
 |------------------|---------------------|--------------------|----------------------|
-| React, Redux     | Node.js, Express    | MongoDB, MySQL     | Git, Docker, Webpack |
-| HTML5, CSS3, SASS| PHP, REST APIs      | PostgreSQL         | CI/CD, AWS           |
+| JS, React, Redux | Node.js, Express    | MongoDB, MySQL     | Git, Docker, Webpack |
+| HTML5, CSS3, SASS| PHP, REST APIs      |                    | CI/CD, AWS           |
 
 ---
 
