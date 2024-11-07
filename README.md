@@ -15,9 +15,9 @@ Soy desarrollador web con formación en producción web, y tengo amplia experien
 
 ---
 
-## 🔥 Proyectos Destacados
+> ## 🔥 Proyectos Destacados
 
-### 1. [**ProjectName**](enlace-al-proyecto)
+> ### 1. [**ProjectName**](enlace-al-proyecto)
 > **Descripción**: Breve explicación de lo que hace el proyecto y por qué es relevante. Ejemplo: "Una aplicación de comercio electrónico que permite a los usuarios navegar y comprar productos con un diseño moderno y un backend escalable."
 >  
 > **Tecnologías**: React, Redux, Node.js, MongoDB  
@@ -30,7 +30,7 @@ Soy desarrollador web con formación en producción web, y tengo amplia experien
 
 ---
 
-### 2. [**OtroProyecto**](enlace-al-proyecto)
+> ### 2. [**OtroProyecto**](enlace-al-proyecto)
 > **Descripción**: Explica qué hace el proyecto y qué lo hace único. Ejemplo: "Una plataforma de chat en tiempo real con soporte para mensajes multimedia y notificaciones push."
 >  
 > **Tecnologías**: Next.js, Socket.IO, Firebase  
@@ -43,22 +43,23 @@ Soy desarrollador web con formación en producción web, y tengo amplia experien
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)  
-[![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)](https://github.com/tu-usuario)
+> ### 📊 Mis Estadísticas de GitHub
+> ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)  
+> [![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)](https://github.com/tu-usuario)
 
 ---
 
-## 📚 Blog y Artículos
-Me encanta compartir lo que aprendo. Aquí tienes algunos artículos interesantes:
-- [Título del Artículo 1](enlace)
-- [Título del Artículo 2](enlace)
-- [Título del Artículo 3](enlace)
+> ## 📚 Blog y Artículos
+> Me encanta compartir lo que aprendo. Aquí tienes algunos artículos interesantes:
+> - [Título del Artículo 1](enlace)
+> - [Título del Artículo 2](enlace)
+> - [Título del Artículo 3](enlace)
 
 ---
 
 ## 🤝 ¡Conectemos!
-- **LinkedIn**: [Enlace a tu perfil](enlace)
+- **GetOnBoard** https://www.getonbrd.com/p/maximiliano-andres-villalobos-coilla
+- **LinkedIn**: @max-villalobos (https://www.linkedin.com/in/max-villalobos/)
 - **Portafolio**: [tu-sitio.com](enlace)
 - **Email**: tu-email@example.com
 
