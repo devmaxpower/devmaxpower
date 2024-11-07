@@ -10,8 +10,8 @@ Soy desarrollador web con formación en producción web, y tengo amplia experien
 
 | **Frontend**    | **Backend**         | **Bases de Datos** | **DevOps & Otros**   |
 |------------------|---------------------|--------------------|----------------------|
-| JS, React, Redux | Node.js, Express    | MongoDB, MySQL     | Git, Docker, Webpack |
-| HTML5, CSS3, SASS| PHP, REST APIs      |                    | CI/CD, AWS           |
+| JS, React, Redux | Node.js, Express    | MongoDB           | Git, Docker, Webpack |
+| HTML5, CSS3, SASS| PHP, REST APIs      |        MySQL     | CI/CD, AWS           |
 
 ---
 <!--
